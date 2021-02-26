@@ -10,3 +10,7 @@ CV can help you to fill your captcha or captcha jobs(99% Accurate)
   be mentioned in that project else copyright claim can be made regards having MIT License. 
   MIT License is used for this open source project is not liable for any of causes. 
   The owner isn't responsible for any cause. This project is designed to show what CV i.e Text Recognition library can you do.
+  
+## Installation Guide
+* Copy and pate this link in Terminal or CMD
+`git clone https://github.com/scienceLabwork/AutoCaptcha`
