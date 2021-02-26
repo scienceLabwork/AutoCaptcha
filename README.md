@@ -12,5 +12,5 @@ CV can help you to fill your captcha or captcha jobs(99% Accurate)
   The owner isn't responsible for any cause. This project is designed to show what CV i.e Text Recognition library can you do.
   
 # Installation Guide
-* Copy and pate this link in Terminal or CMD
+* Copy and pate this in Terminal or CMD
 `git clone https://github.com/scienceLabwork/AutoCaptcha`
