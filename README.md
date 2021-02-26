@@ -14,3 +14,11 @@ CV can help you to fill your captcha or captcha jobs(99% Accurate)
 # Installation Guide
 * Copy and pate this in Terminal or CMD
 `git clone https://github.com/scienceLabwork/AutoCaptcha`
+
+# My webpage
+[sciencelabwork](http://www.sciencelabwork.cf)
+
+# Contact Me
+[Instagram](https://www.instagram.com/rudra_shah_)
+
+"All rights reserved & logo shouldn't be remade without prior permission
