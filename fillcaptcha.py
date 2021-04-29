@@ -4,6 +4,8 @@
 
 # This is just an sample script improvements will be added later.
 
+# It is also possible iwth selenium
+
 # Instruction before using:
 """
 * Just Run this programm and switch to captcha page...Boom You computer is now under the control and will help you to fill all the captcha with 99% Accuracy.
@@ -39,7 +41,7 @@ while True:
     if(last!=text):
         print(text)
         time.sleep(1)
-        pyautogui.click(704,504)
+        pyautogui.click(704,504) # Enter your click cordinates here
         pyautogui.click(704,504)
         time.sleep(1)
         pyautogui.typewrite(text,0.5)
